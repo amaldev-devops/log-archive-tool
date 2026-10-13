@@ -50,4 +50,4 @@ The script creates an archive_logs/ directory containing compressed archives and
 
 Project Page
 
-https://github.com/amaldev-devops/log-archive-tool.git
+https://roadmap.sh/projects/log-archive-tool
